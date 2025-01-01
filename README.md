@@ -45,7 +45,7 @@ Im Datensatz wurden keine fehlenden Werte festgestellt.
 
 #### Statistische Erkenntnisse
 
-* Das Alt2er der Personen liegt zwischen 18 und 64 Jahren.
+* Das Alter der Personen liegt zwischen 18 und 64 Jahren.
 * Die BMI-Werte liegen zwischen 15 und 53, mit einer leicht rechtsschiefen Verteilung.
 * 50 % der Personen haben keine Kinder, während nur circa 1 % 4 oder 5 Kinder haben.
 * Raucher machen 20 % des Datensatzes aus, während Nichtraucher 80 % ausmachen.
