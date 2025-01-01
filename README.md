@@ -57,7 +57,7 @@ Im Datensatz wurden keine fehlenden Werte festgestellt.
 3. Gebühren nach Rauchstatus: Raucher zahlen deutlich höhere Gebühren (Median ≈ 35.000 vs. ≈ 7.500 für Nichtraucher).
 4. Gebühren nach Region: Die Gebühren sind relativ gleichmäßig über die Regionen verteilt, mit einigen Ausreißern.
 
-### 4.Datenvorverarbeitung
+### 4. Datenvorverarbeitung
 
 * Kodierung kategorischer Merkmale:
   * sex: männlich (0), weiblich (1)
@@ -68,7 +68,7 @@ Im Datensatz wurden keine fehlenden Werte festgestellt.
   * Eingabe: age, sex, bmi, children, smoker, region
   * Zielvariable: charges
 
-### 5.Modellentwicklung
+### 5. Modellentwicklung
 
 * Verwendetes Modell: Lineare Regression
 * Prozess:
@@ -77,14 +77,14 @@ Im Datensatz wurden keine fehlenden Werte festgestellt.
   2. Trainieren des Modells mit den Trainingsdaten.
   3. Bewertung mit Metriken wie Mean Absolute Error (MAE) und R-squared-Wert.
      
-### 6.Erkenntnisse
+### 6. Erkenntnisse
 
 6.1. Schlüsselfaktoren, die die Gebühren beeinflussen:
    * Der Rauchstatus hat den größten Einfluss auf die Gebühren.
    * Der Rauchstatus hat den größten Einfluss auf die Gebühren.
 6.2. Einfluss der Region: Regionen zeigen keine signifikanten Unterschiede bei den Gebühren.
 
-### 7.Ergebnisse
+### 7. Ergebnisse
 
 * Modellleistung:
    * R-squared-Wert: 0.751505643411174
