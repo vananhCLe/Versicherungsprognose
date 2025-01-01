@@ -64,7 +64,7 @@ Im Datensatz wurden keine fehlenden Werte festgestellt.
   * smoker: ja (0), nein (1)
   * region: Südost (0), Südwest (1), Nordost (2), Nordwest (3)
     
-*Merkmale für die Vorhersage:
+* Merkmale für die Vorhersage:
   * Eingabe: age, sex, bmi, children, smoker, region
   * Zielvariable: charges
 
